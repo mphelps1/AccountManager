@@ -1,1 +1,3 @@
 Here is stuff in this file
+
+*** This is my clean copy ***
